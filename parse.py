@@ -14,6 +14,6 @@ def parse_string(stri):
     else:
         return None
 
-encoded_str = "Baljeet000kaur0002112"
+stri= "Baljeet000kaur0002112"
 parsed_data = parse_string(stri)
 print(parsed_data)
